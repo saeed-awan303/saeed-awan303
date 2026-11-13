@@ -110,7 +110,7 @@ Check my repositories for projects and code samples.
 ## 🤝 Let's Connect
 
 - **GitHub:** [@saeed-awan303](https://github.com/saeed-awan303)
-- **LinkedIn:** ([https://www.linkedin.com/](https://www.linkedin.com/in/muhammad-saeed-awan-18746772/))
+- **LinkedIn:** ([@muhammad-saeed-awan-18746772](https://www.linkedin.com/in/muhammad-saeed-awan-18746772/))
 
 I am always interested in connecting with developers, technology professionals, and people building innovative software solutions.
 
